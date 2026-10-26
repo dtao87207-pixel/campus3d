@@ -1,0 +1,30 @@
+{
+  "n_buildings": 80,
+  "n_named": 52,
+  "foot_m2": 166759,
+  "floor_m2": 848986,
+  "road_km": 110.06,
+  "nodes": 1543,
+  "edges": 1878,
+  "n_south": 61,
+  "n_north": 19,
+  "n_dests": 18,
+  "to_all_mean": 3.67,
+  "to_all_p90": 6.3,
+  "to_all_max": 8.6,
+  "to_core_mean": 6.53,
+  "to_core_p90": 11.5,
+  "to_core_max": 13.8,
+  "siting_p": 4,
+  "siting_mean": 4.85,
+  "siting_cov5": 62.4,
+  "name_stat": {
+    "一致": 14,
+    "写法差异": 11,
+    "别名": 11,
+    "待核": 2,
+    "缺失": 31,
+    "配准": 9,
+    "模型独有": 12
+  }
+}

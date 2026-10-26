@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+.DS_Store
+Thumbs.db
+out/imagery_*.png
+out/step0_overlay_full.jpg
+out/scene.json

@@ -1,0 +1,172 @@
+[
+ {
+  "map_name": "教学楼A",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   -229.0,
+   540.6
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "文三",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   254.1,
+   323.9
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "吉瑞大厦",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   273.1,
+   221.2
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "欣瑞大厦",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   409.5,
+   12.2
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "弘毅楼",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   412.6,
+   -325.9
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "金如新楼",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   150.7,
+   -205.7
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "西体楼",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   200.3,
+   -208.5
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "东体楼",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   242.2,
+   -208.4
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "综合实验楼",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   -53.7,
+   133.9
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "第二食堂",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   275.3,
+   -38.9
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "教五",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   1.9,
+   52.3
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "教六",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   41.7,
+   52.8
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "实训用房",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   -151.9,
+   705.6
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "辅助用房",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   -344.9,
+   785.6
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "西辅助楼",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   200.6,
+   -587.8
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "东辅助楼",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   383.7,
+   -595.0
+  ],
+  "poly": null
+ },
+ {
+  "map_name": "图信报告厅",
+  "area": null,
+  "dist_m": null,
+  "pred": [
+   -70.7,
+   498.7
+  ],
+  "poly": null
+ }
+]
